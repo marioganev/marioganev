@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marioganev!
-- 👀 I’m interested in programming, software, going on adventures and smoking shisha.
+- 👀 I’m interested in making my computer follow commands without its consent, through a thousand lines of code. 
 - 🌱 I’m currently learning C#.
 - 📫 How to reach me: mlgboyz69@gmail.com
 
