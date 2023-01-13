@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning JS and C#.
 - 📫 How to reach me: mlgboyz69@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/marioganev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marioganev)](https://github.com/anuraghazra/github-readme-stats)
