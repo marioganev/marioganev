@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marioganev!
 - 👀 I’m interested in making my computer follow commands through a thousand lines of code. 
 - 🌱 I’m currently learning C# and JavaScript.
-- 📫 How to reach me: mlgboyz69@gmail.com
+- 📫 How to reach me: marioganev7@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
