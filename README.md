@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marioganev!
-- 📚 I’m currently learning C# and JavaScript.
+- 📚 I’m currently learning JavaScript and C#.
 - 📫 How to reach me: marioganev7@gmail.com
 
 <h3 align="left">Connect with me:</h3>
